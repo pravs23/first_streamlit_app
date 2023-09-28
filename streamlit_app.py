@@ -5,10 +5,10 @@ streamlit.title('my new one')
 streamlit.title('my second one')
 streamlit.title('my third one')
 
-streamlit.header('Breakfast Menu')
+streamlit.header('Breakfast favorites')
 
-streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥣Omega 3 & Blueberry Oatmeal')    
+streamlit.text('🥗 Kale, Spinach & Rocket Smoothie')
 
-streamlit.text('Kale, Spinach & Rocket Smoothie')
-
-streamlit.text('Hard-Boiled Free-Range Egg')
+streamlit.text('🐔Hard-Boiled Free-Range Egg')
+streamlit.text('🥑🍞 Avacado toast')
